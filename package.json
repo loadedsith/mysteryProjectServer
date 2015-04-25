@@ -1,0 +1,19 @@
+{
+  "name": "mysteryProjectServer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engine": "0.10.32",
+  "arch": "32",
+  "author": "",
+  "license": "CC",
+  "dependencies": {
+    "express": "^4.12.3",
+    "http": "0.0.0",
+    "printf": "^0.2.1",
+    "socket.io": "^1.3.5"
+  }
+}
